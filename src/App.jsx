@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import axios from 'axios'
-import Template from './components/template';
+import Template from './components/Template/';
 
 
 function App() {
